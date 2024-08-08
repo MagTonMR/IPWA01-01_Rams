@@ -1,0 +1,7 @@
+[
+    {"country":"USA", "company":"Company A", "emmissions":1000},
+    {"country":"Germany", "company":"Company B", "emmissions":600},
+    {"country":"China", "company":"Company C", "emmissions":1200},
+    {"country":"USA", "company":"Company D", "emmissions":1500},
+    {"country":"Russia", "company":"Company E", "emmissions":900}
+]
